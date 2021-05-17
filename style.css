@@ -1,0 +1,37 @@
+h1.first-title {
+    color: mediumslateblue;
+    text-align: center;
+    font-weight: initial;
+}
+
+h1.second-title {
+    color: yellowgreen;
+    text-align: center;
+}
+a:link {
+    background-color: yellowgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: darkblue;
+}
+li {
+    color: mediumslateblue;
+}
+img {
+    width: 40%;
+    height: 40%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
